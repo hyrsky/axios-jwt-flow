@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "lib/index.js",
   "license": "MIT",
-  "repository" : "github:hyrsky/axios-jwt-flow",
+  "repository": "github:hyrsky/axios-jwt-flow",
   "scripts": {
     "test": "mocha --reporter spec",
     "coverage": "nyc mocha"
